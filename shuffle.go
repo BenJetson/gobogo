@@ -6,6 +6,8 @@ import (
 	"math/rand/v2"
 )
 
+// Shuffle performs an in-place randomization of the given slice, swapping
+// somewhere between 0.5 and 1.5 times the number of elements in the slice.
 func Shuffle[T cmp.Ordered](s []T) {
 	slog.Debug("shuffling")
 	count := len(s)
