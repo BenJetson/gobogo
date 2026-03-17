@@ -57,43 +57,43 @@ func TestSortPreSortedStrings(t *testing.T) {
 	}
 }
 
-func TestSortInt1Through2(t *testing.T) {
+func TestSortInts1Through2(t *testing.T) {
 	testSort(t, []int{2, 1})
 }
 
-func TestSortInt1Through3(t *testing.T) {
+func TestSortInts1Through3(t *testing.T) {
 	testSort(t, []int{3, 2, 1})
 }
 
-func TestSortInt1Through4(t *testing.T) {
+func TestSortInts1Through4(t *testing.T) {
 	testSort(t, []int{4, 3, 2, 1})
 }
 
-func TestSortInt1Through5(t *testing.T) {
+func TestSortInts1Through5(t *testing.T) {
 	testSort(t, []int{5, 4, 3, 2, 1})
 }
 
-func TestSortInt1Through6(t *testing.T) {
+func TestSortInts1Through6(t *testing.T) {
 	testSort(t, []int{6, 5, 4, 3, 2, 1})
 }
 
-func TestSortInt1Through7(t *testing.T) {
+func TestSortInts1Through7(t *testing.T) {
 	testSort(t, []int{7, 6, 5, 4, 3, 2, 1})
 }
 
-func TestSortInt1Through8(t *testing.T) {
+func TestSortInts1Through8(t *testing.T) {
 	testSort(t, []int{8, 7, 6, 5, 4, 3, 2, 1})
 }
 
-func TestSortInt1Through9(t *testing.T) {
+func TestSortInts1Through9(t *testing.T) {
 	testSort(t, []int{9, 8, 7, 6, 5, 4, 3, 2, 1})
 }
 
-func TestSortInt1Through10(t *testing.T) {
+func TestSortInts1Through10(t *testing.T) {
 	testSort(t, []int{10, 9, 8, 7, 6, 5, 4, 3, 2, 1})
 }
 
-func TestSortInt1Through11(t *testing.T) {
+func TestSortInts1Through11(t *testing.T) {
 	testSort(t, []int{11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1})
 }
 
