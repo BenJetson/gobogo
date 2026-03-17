@@ -1,4 +1,4 @@
-module github.com/BenJetson/bogo
+module github.com/BenJetson/gobogo
 
 go 1.25.0
 
