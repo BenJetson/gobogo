@@ -6,7 +6,8 @@
 
 This package provides an implementation of
 [bogosort](https://en.wikipedia.org/wiki/Bogosort) for the
-[Go programming language](https://go.dev).
+[Go programming language](https://go.dev) that usees the
+[generics feature introduced in Go 1.18](https://go.dev/blog/intro-generics).
 
 ## Installation
 
