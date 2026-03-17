@@ -19,5 +19,5 @@ jobs:
           cache: true
 
       - name: Run tests
-        run: go test -v -timeout 2m ./...
+        run: go test -v -timeout 2m .
         timeout-minutes: 3 # in case Go needs a little more time to clean up.
