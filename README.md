@@ -1,6 +1,6 @@
 # gobogo
 
-![Go Report Card](https://goreportcard.com/badge/github.com/BenJetson/gobogo)
+[![Go Report Card](https://goreportcard.com/badge/github.com/BenJetson/gobogo)](https://goreportcard.com/report/github.com/BenJetson/gobogo)
 
 This package provides an implementation of
 [bogosort](https://en.wikipedia.org/wiki/Bogosort) for the
