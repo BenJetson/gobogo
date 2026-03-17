@@ -35,3 +35,11 @@ func main() {
 ```
 
 You can [try it on the Go Playground](https://go.dev/play/p/5kRsU2Y0-br)!
+
+## Usage
+
+I wouldn't recommend using this package, but
+[documentation](https://pkg.go.dev/github.com/BenJetson/gobogo) is available if
+you would like to do so.
+
+All usage is subject to the [terms of the MIT License](./LICENSE).
