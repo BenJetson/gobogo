@@ -2,6 +2,7 @@
 
 [![Go Report Card](https://goreportcard.com/badge/github.com/BenJetson/gobogo)](https://goreportcard.com/report/github.com/BenJetson/gobogo)
 [![Go Reference](https://pkg.go.dev/badge/github.com/BenJetson/gobogo.svg)](https://pkg.go.dev/github.com/BenJetson/gobogo)
+[![Test](https://github.com/BenJetson/gobogo/actions/workflows/test.yml/badge.svg)](https://github.com/BenJetson/gobogo/actions/workflows/test.yml)
 
 This package provides an implementation of
 [bogosort](https://en.wikipedia.org/wiki/Bogosort) for the
