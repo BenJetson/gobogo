@@ -33,3 +33,5 @@ func main() {
 	fmt.Println("output:", s) // (eventually) sorted!
 }
 ```
+
+You can [try it on the Go Playground](https://go.dev/play/p/5kRsU2Y0-br)!
