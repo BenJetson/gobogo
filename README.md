@@ -1,5 +1,7 @@
 # gobogo
 
+![Go Report Card](https://goreportcard.com/badge/github.com/BenJetson/gobogo)
+
 This package provides an implementation of
 [bogosort](https://en.wikipedia.org/wiki/Bogosort) for the
 [Go programming language](https://go.dev).
